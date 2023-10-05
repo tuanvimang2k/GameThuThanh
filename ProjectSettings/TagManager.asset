@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - gach
+  - kiem
+  - De1
+  - NguyenNhac
+  - linh
+  - kiemDich
+  - Arrow
+  - ThanhDM
+  - testTag
+  - CongThanh
+  - LinhDich
+  - Bounce
+  - vatPham
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - De1
+  - Water
+  - UI
+  - Main
+  - enemy
+  - De2
+  - linh
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
